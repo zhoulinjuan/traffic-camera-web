@@ -1,0 +1,5 @@
+{
+  "getTrafficImages": "https://api.data.gov.sg/v1/transport/traffic-images",
+  "getWeatherForecast": "https://api.data.gov.sg/v1/environment/2-hour-weather-forecast",
+  "getLocation": "https://maps.googleapis.com/maps/api/geocode/json?"
+}

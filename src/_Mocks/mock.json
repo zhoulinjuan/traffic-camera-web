@@ -1,0 +1,785 @@
+[
+  {
+    "location": {
+      "latitude": 1.29531332,
+      "longitude": 103.871146
+    },
+    "camera_id": "1001",
+    "street": "East Coast Parkway",
+    "neighborhood": "Kallang"
+  },
+  {
+    "location": {
+      "latitude": 1.319541067,
+      "longitude": 103.8785627
+    },
+    "camera_id": "1002",
+    "street": "Jalan Kolam Ayer",
+    "neighborhood": "Geylang"
+  },
+  {
+    "location": {
+      "latitude": 1.323957439,
+      "longitude": 103.8728576
+    },
+    "camera_id": "1003",
+    "street": "Kallang-Paya Lebar Expressway",
+    "neighborhood": "Geylang"
+  },
+  {
+    "location": {
+      "latitude": 1.319535712,
+      "longitude": 103.8750668
+    },
+    "camera_id": "1004",
+    "street": "Kalang Way Flyover",
+    "neighborhood": "Geylang"
+  },
+  {
+    "location": {
+      "latitude": 1.363519886,
+      "longitude": 103.905394
+    },
+    "camera_id": "1005",
+    "street": "Kallang Paya Lebar Expressway,",
+    "neighborhood": "Hougang"
+  },
+  {
+    "location": {
+      "latitude": 1.357098686,
+      "longitude": 103.902042
+    },
+    "camera_id": "1006",
+    "street": "Kallang-Paya Lebar Expressway",
+    "neighborhood": "Paya Lebar"
+  },
+  {
+    "location": {
+      "latitude": 1.27414394350065,
+      "longitude": 103.851316802547
+    },
+    "camera_id": "1501",
+    "street": "Straits Boulevard",
+    "neighborhood": "City"
+  },
+  {
+    "location": {
+      "latitude": 1.27135090682664,
+      "longitude": 103.861828440597
+    },
+    "camera_id": "1502",
+    "street": "Marina South Pier, Marina Coastal Drive",
+    "neighborhood": "City"
+  },
+  {
+    "location": {
+      "latitude": 1.27066408655104,
+      "longitude": 103.856977943394
+    },
+    "camera_id": "1503",
+    "street": "Marina Coastal Expressway, Straits View",
+    "neighborhood": "City"
+  },
+  {
+    "location": {
+      "latitude": 1.29409891409364,
+      "longitude": 103.876056196568
+    },
+    "camera_id": "1504",
+    "street": "East Coast Parkway",
+    "neighborhood": "City"
+  },
+  {
+    "location": {
+      "latitude": 1.2752977149006,
+      "longitude": 103.866390381759
+    },
+    "camera_id": "1505",
+    "street": "Marina Coastal Expressway",
+    "neighborhood": "City"
+  },
+  {
+    "location": {
+      "latitude": 1.323604823,
+      "longitude": 103.8587802
+    },
+    "camera_id": "1701",
+    "street": "Saint George's Lane",
+    "neighborhood": "Kallang"
+  },
+  {
+    "location": {
+      "latitude": 1.34355015,
+      "longitude": 103.8601984
+    },
+    "camera_id": "1702",
+    "street": "Braddell Flyover",
+    "neighborhood": "Bishan"
+  },
+  {
+    "location": {
+      "latitude": 1.32814722194857,
+      "longitude": 103.862203282048
+    },
+    "camera_id": "1703",
+    "street": "Central Expressway",
+    "neighborhood": "Kallang"
+  },
+  {
+    "location": {
+      "latitude": 1.28569398886979,
+      "longitude": 103.837524510188
+    },
+    "camera_id": "1704",
+    "street": "Chin Swee Road, Chinatown",
+    "neighborhood": "City"
+  },
+  {
+    "location": {
+      "latitude": 1.375925022,
+      "longitude": 103.8587986
+    },
+    "camera_id": "1705",
+    "street": "Central Expressway",
+    "neighborhood": "Serangoon"
+  },
+  {
+    "location": {
+      "latitude": 1.38861,
+      "longitude": 103.85806
+    },
+    "camera_id": "1706",
+    "street": "Central Expressway",
+    "neighborhood": "Ang Mo Kio"
+  },
+  {
+    "location": {
+      "latitude": 1.28036584335876,
+      "longitude": 103.830451146503
+    },
+    "camera_id": "1707",
+    "street": "Central Expressway,",
+    "neighborhood": "Bukit Merah"
+  },
+  {
+    "location": {
+      "latitude": 1.31384231654635,
+      "longitude": 103.845603032574
+    },
+    "camera_id": "1709",
+    "street": "Kampong Java",
+    "neighborhood": "Kallang"
+  },
+  {
+    "location": {
+      "latitude": 1.35296,
+      "longitude": 103.85719
+    },
+    "camera_id": "1711",
+    "street": "Central Expressway",
+    "neighborhood": "Sentosa"
+  },
+  {
+    "location": {
+      "latitude": 1.447023728,
+      "longitude": 103.7716543
+    },
+    "camera_id": "2701",
+    "street": "Marsiling Park Connector",
+    "neighborhood": "Woodlands"
+  },
+  {
+    "location": {
+      "latitude": 1.445554109,
+      "longitude": 103.7683397
+    },
+    "camera_id": "2702",
+    "street": "Woodlands Checkpoint",
+    "neighborhood": "Woodlands"
+  },
+  {
+    "location": {
+      "latitude": 1.35047790791386,
+      "longitude": 103.791033581325
+    },
+    "camera_id": "2703",
+    "street": "Pan-Island Expressway",
+    "neighborhood": "Bukit Timah"
+  },
+  {
+    "location": {
+      "latitude": 1.429588536,
+      "longitude": 103.769311
+    },
+    "camera_id": "2704",
+    "street": "Bukit Timah Expressway",
+    "neighborhood": "Sungei Kadut"
+  },
+  {
+    "location": {
+      "latitude": 1.36728572,
+      "longitude": 103.7794698
+    },
+    "camera_id": "2705",
+    "street": "Bukit Timah Expressway, Central Water Catchment,",
+    "neighborhood": "Sungei Kadut"
+  },
+  {
+    "location": {
+      "latitude": 1.414142,
+      "longitude": 103.771168
+    },
+    "camera_id": "2706",
+    "street": "Bukit Timah Expressway",
+    "neighborhood": "Sungei Kadut"
+  },
+  {
+    "location": {
+      "latitude": 1.3983,
+      "longitude": 103.774247
+    },
+    "camera_id": "2707",
+    "street": "Bukit Timah Expressway",
+    "neighborhood": "Sungei Kadut"
+  },
+  {
+    "location": {
+      "latitude": 1.3865,
+      "longitude": 103.7747
+    },
+    "camera_id": "2708",
+    "street": "Bukit Timah Expressway",
+    "neighborhood": "Bukit Panjang"
+  },
+  {
+    "location": {
+      "latitude": 1.33831,
+      "longitude": 103.98032
+    },
+    "camera_id": "3702",
+    "street": "ECP",
+    "neighborhood": "Changi"
+  },
+  {
+    "location": {
+      "latitude": 1.32743,
+      "longitude": 103.97383
+    },
+    "camera_id": "3705",
+    "street": "East Coast Parkway",
+    "neighborhood": "Tampines"
+  },
+  {
+    "location": {
+      "latitude": 1.309330837,
+      "longitude": 103.9350504
+    },
+    "camera_id": "3793",
+    "street": "Bedok South Avenue 1",
+    "neighborhood": "Bedok"
+  },
+  {
+    "location": {
+      "latitude": 1.30145145166066,
+      "longitude": 103.910596320237
+    },
+    "camera_id": "3795",
+    "street": "Still Road South",
+    "neighborhood": "Marine Parade"
+  },
+  {
+    "location": {
+      "latitude": 1.297512569,
+      "longitude": 103.8983019
+    },
+    "camera_id": "3796",
+    "street": "East Coast Parkway",
+    "neighborhood": "Marine Parade"
+  },
+  {
+    "location": {
+      "latitude": 1.29565733262976,
+      "longitude": 103.885283049309
+    },
+    "camera_id": "3797",
+    "street": "Fort Road South",
+    "neighborhood": "Marine Parade"
+  },
+  {
+    "location": {
+      "latitude": 1.29158484,
+      "longitude": 103.8615987
+    },
+    "camera_id": "3798",
+    "street": "Marina Centre Terminal",
+    "neighborhood": "City"
+  },
+  {
+    "location": {
+      "latitude": 1.2871,
+      "longitude": 103.79633
+    },
+    "camera_id": "4701",
+    "street": "Ayer Rajah Expressway, Nepal Hill",
+    "neighborhood": "Queenstown"
+  },
+  {
+    "location": {
+      "latitude": 1.27237,
+      "longitude": 103.8324
+    },
+    "camera_id": "4702",
+    "street": "Ayer Rajah Expressway, Radin Mas",
+    "neighborhood": "Bukit Merah"
+  },
+  {
+    "location": {
+      "latitude": 1.348697862,
+      "longitude": 103.6350413
+    },
+    "camera_id": "4703",
+    "street": "Tuas Checkpoint",
+    "neighborhood": "Tuas"
+  },
+  {
+    "location": {
+      "latitude": 1.27877,
+      "longitude": 103.82375
+    },
+    "camera_id": "4704",
+    "street": "Ayer Rajah Expressway, Radin Mas",
+    "neighborhood": "Bukit Merah"
+  },
+  {
+    "location": {
+      "latitude": 1.32618,
+      "longitude": 103.73028
+    },
+    "camera_id": "4705",
+    "street": "Ayer Rajah Expressway",
+    "neighborhood": "Jurong East"
+  },
+  {
+    "location": {
+      "latitude": 1.29792,
+      "longitude": 103.78205
+    },
+    "camera_id": "4706",
+    "street": "Ayer Rajah Expressway",
+    "neighborhood": "Queenstown"
+  },
+  {
+    "location": {
+      "latitude": 1.33344648135658,
+      "longitude": 103.652700847056
+    },
+    "camera_id": "4707",
+    "street": "Ayer Rajah Expressway",
+    "neighborhood": "Tuas"
+  },
+  {
+    "location": {
+      "latitude": 1.29939,
+      "longitude": 103.7799
+    },
+    "camera_id": "4708",
+    "street": "Ayer Rajah Expressway, Nepal Hill",
+    "neighborhood": "Queenstown"
+  },
+  {
+    "location": {
+      "latitude": 1.312019,
+      "longitude": 103.763002
+    },
+    "camera_id": "4709",
+    "street": "Ayer Rajah Expressway",
+    "neighborhood": "Clementi"
+  },
+  {
+    "location": {
+      "latitude": 1.32153,
+      "longitude": 103.75273
+    },
+    "camera_id": "4710",
+    "street": "Ayer Rajah Expressway,",
+    "neighborhood": "Clementi"
+  },
+  {
+    "location": {
+      "latitude": 1.341244001,
+      "longitude": 103.6439134
+    },
+    "camera_id": "4712",
+    "street": "Autopass Card . Cash Card Top-Up Booth",
+    "neighborhood": "Tuas"
+  },
+  {
+    "location": {
+      "latitude": 1.347645829,
+      "longitude": 103.6366955
+    },
+    "camera_id": "4713",
+    "street": "Tuas Checkpoint (Arrival), Bus Lanes",
+    "neighborhood": "Tuas"
+  },
+  {
+    "location": {
+      "latitude": 1.31023,
+      "longitude": 103.76438
+    },
+    "camera_id": "4714",
+    "street": "West Coast Recreation Centre, Ayer Rajah Expressway",
+    "neighborhood": "Clementi"
+  },
+  {
+    "location": {
+      "latitude": 1.32227,
+      "longitude": 103.67453
+    },
+    "camera_id": "4716",
+    "street": "Ayer Rajah Expressway",
+    "neighborhood": "Pioneer"
+  },
+  {
+    "location": {
+      "latitude": 1.25999999687243,
+      "longitude": 103.823611110166
+    },
+    "camera_id": "4798",
+    "street": "Bones'n Barrels, Sentosa Boardwalk",
+    "neighborhood": "Bukit Merah"
+  },
+  {
+    "location": {
+      "latitude": 1.26027777363278,
+      "longitude": 103.823888890049
+    },
+    "camera_id": "4799",
+    "street": "Sentosa Gateway, Radin Mas",
+    "neighborhood": "Bukit Merah"
+  },
+  {
+    "location": {
+      "latitude": 1.3309693,
+      "longitude": 103.9168616
+    },
+    "camera_id": "5794",
+    "street": "Pan-Island Expressway",
+    "neighborhood": "Bedok"
+  },
+  {
+    "location": {
+      "latitude": 1.326024822,
+      "longitude": 103.905625
+    },
+    "camera_id": "5795",
+    "street": "Pan-Island Expressway, Geylang East Garden",
+    "neighborhood": "Geylang"
+  },
+  {
+    "location": {
+      "latitude": 1.322875288,
+      "longitude": 103.8910793
+    },
+    "camera_id": "5797",
+    "street": "Paya Lebar Road",
+    "neighborhood": "Geylang"
+  },
+  {
+    "location": {
+      "latitude": 1.32036078126842,
+      "longitude": 103.877174116489
+    },
+    "camera_id": "5798",
+    "street": "Pelton Canal, Kallang-Paya Lebar Expressway",
+    "neighborhood": "Geylang"
+  },
+  {
+    "location": {
+      "latitude": 1.328171608,
+      "longitude": 103.8685191
+    },
+    "camera_id": "5799",
+    "street": "Pan-Island Expressway",
+    "neighborhood": "Toa Payoh"
+  },
+  {
+    "location": {
+      "latitude": 1.329334,
+      "longitude": 103.858222
+    },
+    "camera_id": "6701",
+    "street": "Pan-Island Expressway",
+    "neighborhood": "Novena"
+  },
+  {
+    "location": {
+      "latitude": 1.328899,
+      "longitude": 103.84121
+    },
+    "camera_id": "6703",
+    "street": "Jalan Toa Payoh",
+    "neighborhood": "Novena"
+  },
+  {
+    "location": {
+      "latitude": 1.32657403632366,
+      "longitude": 103.826857295633
+    },
+    "camera_id": "6704",
+    "street": "Mount Pleasant Road",
+    "neighborhood": "Novena"
+  },
+  {
+    "location": {
+      "latitude": 1.332124,
+      "longitude": 103.81768
+    },
+    "camera_id": "6705",
+    "street": "Pan-Island Expressway",
+    "neighborhood": "Novena"
+  },
+  {
+    "location": {
+      "latitude": 1.349428893,
+      "longitude": 103.7952799
+    },
+    "camera_id": "6706",
+    "street": "Pan-Island Expressway",
+    "neighborhood": "Western Water Catchment"
+  },
+  {
+    "location": {
+      "latitude": 1.345996,
+      "longitude": 103.69016
+    },
+    "camera_id": "6708",
+    "street": "Pan-Island Expressway,",
+    "neighborhood": "Western Water Catchment"
+  },
+  {
+    "location": {
+      "latitude": 1.344205,
+      "longitude": 103.78577
+    },
+    "camera_id": "6710",
+    "street": "Rifle Range Nature Park, Rock Path",
+    "neighborhood": "Bukit Panjang"
+  },
+  {
+    "location": {
+      "latitude": 1.33771,
+      "longitude": 103.977827
+    },
+    "camera_id": "6711",
+    "street": "Pan-Island Expressway",
+    "neighborhood": "Tampines"
+  },
+  {
+    "location": {
+      "latitude": 1.332691,
+      "longitude": 103.770278
+    },
+    "camera_id": "6712",
+    "street": "Pan-Island Expressway",
+    "neighborhood": "Bukit Timah"
+  },
+  {
+    "location": {
+      "latitude": 1.340298,
+      "longitude": 103.945652
+    },
+    "camera_id": "6713",
+    "street": "Pan-Island Expressway",
+    "neighborhood": "Tampines"
+  },
+  {
+    "location": {
+      "latitude": 1.361742,
+      "longitude": 103.703341
+    },
+    "camera_id": "6714",
+    "street": "KJE",
+    "neighborhood": "Western Water Catchment"
+  },
+  {
+    "location": {
+      "latitude": 1.356299,
+      "longitude": 103.716071
+    },
+    "camera_id": "6715",
+    "street": "Pan-Island Expressway",
+    "neighborhood": "Jurong West"
+  },
+  {
+    "location": {
+      "latitude": 1.322893,
+      "longitude": 103.6635051
+    },
+    "camera_id": "6716",
+    "street": "Tuas Road",
+    "neighborhood": "Tuas"
+  },
+  {
+    "location": {
+      "latitude": 1.354245,
+      "longitude": 103.963782
+    },
+    "camera_id": "7791",
+    "street": "Tampines Expressway",
+    "neighborhood": "Pasir Ris"
+  },
+  {
+    "location": {
+      "latitude": 1.37704704,
+      "longitude": 103.92946983
+    },
+    "camera_id": "7793",
+    "street": "Tampines Expressway",
+    "neighborhood": "Pasir Ris"
+  },
+  {
+    "location": {
+      "latitude": 1.37988658,
+      "longitude": 103.92009174
+    },
+    "camera_id": "7794",
+    "street": "Tampines Expressway",
+    "neighborhood": "Paya Lebar"
+  },
+  {
+    "location": {
+      "latitude": 1.38432741,
+      "longitude": 103.91585701
+    },
+    "camera_id": "7795",
+    "street": "Tampines Expressway",
+    "neighborhood": "Pasir Ris"
+  },
+  {
+    "location": {
+      "latitude": 1.39559294,
+      "longitude": 103.90515712
+    },
+    "camera_id": "7796",
+    "street": "Tampines Expressway",
+    "neighborhood": "Sengkang"
+  },
+  {
+    "location": {
+      "latitude": 1.40002575,
+      "longitude": 103.85702534
+    },
+    "camera_id": "7797",
+    "street": "Seletar West Link",
+    "neighborhood": "Sengkang"
+  },
+  {
+    "location": {
+      "latitude": 1.39748842,
+      "longitude": 103.85400467
+    },
+    "camera_id": "7798",
+    "street": "Tampines Expressway",
+    "neighborhood": "Ang Mo Kio"
+  },
+  {
+    "location": {
+      "latitude": 1.38647,
+      "longitude": 103.74143
+    },
+    "camera_id": "8701",
+    "street": "Western Water Catchment",
+    "neighborhood": "Choa Chu Kang"
+  },
+  {
+    "location": {
+      "latitude": 1.39059,
+      "longitude": 103.7717
+    },
+    "camera_id": "8702",
+    "street": "Segar Road",
+    "neighborhood": "Bukit Panjang"
+  },
+  {
+    "location": {
+      "latitude": 1.3899,
+      "longitude": 103.74843
+    },
+    "camera_id": "8704",
+    "street": "Kranji Expressway",
+    "neighborhood": "Choa Chu Kang"
+  },
+  {
+    "location": {
+      "latitude": 1.3664,
+      "longitude": 103.70899
+    },
+    "camera_id": "8706",
+    "street": "KJE, Tengah",
+    "neighborhood": "Jurong West"
+  },
+  {
+    "location": {
+      "latitude": 1.39466333,
+      "longitude": 103.83474601
+    },
+    "camera_id": "9701",
+    "street": "Seletar Expressway,",
+    "neighborhood": "Yishun"
+  },
+  {
+    "location": {
+      "latitude": 1.39474081,
+      "longitude": 103.81797086
+    },
+    "camera_id": "9702",
+    "street": "Seletar Expressway",
+    "neighborhood": "Yishun"
+  },
+  {
+    "location": {
+      "latitude": 1.422857,
+      "longitude": 103.773005
+    },
+    "camera_id": "9703",
+    "street": "Seletar Expressway",
+    "neighborhood": "Woodlands"
+  },
+  {
+    "location": {
+      "latitude": 1.42214311,
+      "longitude": 103.79542062
+    },
+    "camera_id": "9704",
+    "street": "Seletar Expressway",
+    "neighborhood": "Mandai"
+  },
+  {
+    "location": {
+      "latitude": 1.42627712,
+      "longitude": 103.78716637
+    },
+    "camera_id": "9705",
+    "street": "Seletar Expressway",
+    "neighborhood": "Woodlands"
+  },
+  {
+    "location": {
+      "latitude": 1.41270056,
+      "longitude": 103.80642712
+    },
+    "camera_id": "9706",
+    "street": "Mandai Road",
+    "neighborhood": "Mandai"
+  },
+  {
+    "location": {
+      "latitude": 1.2958550156561,
+      "longitude": 103.880314665981
+    },
+    "camera_id": "3704",
+    "street": "East Coast Parkway",
+    "neighborhood": "Kallang"
+  }
+]
