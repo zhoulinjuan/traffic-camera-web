@@ -100,7 +100,7 @@ export default function Album() {
       };
       setWeather(weatherObj);
     }
-  }, [location,forecastList]);
+  }, [location, forecastList]);
 
   const mapLocation = () => {
     setLocation([]);
@@ -143,11 +143,9 @@ export default function Album() {
   // }, [objPosition])
 
   const handleDateChange = (date) => {
-
     setSelectedDate(date);
   };
   const handleTimeChange = (time) => {
-
     setSelectedTime(time);
   };
 
